@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TNLocationApp</string>
+    <string name="preference_file_key">com.example.android.while_in_use_location.PREFERENCE_FILE_KEY</string>
+    <string name="start_location_service">START LOCATION SERVICE</string>
+    <string name="location_log_file_path_downloads_location_location_txt">Location log file path: Downloads/Location/location.txt</string>
+
+</resources>
